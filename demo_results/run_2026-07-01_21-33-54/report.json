@@ -1,0 +1,1408 @@
+{
+  "run_id": "run_2026-07-01_21-33-54",
+  "total_images": 200,
+  "avg_latency_ms": 126.97989344596863,
+  "total_time_sec": 25.395978689193726,
+  "results": [
+    {
+      "image": "val_48.jpg",
+      "count": 164,
+      "raw": 183,
+      "final": 164,
+      "latency_ms": 116.70160293579102
+    },
+    {
+      "image": "val_497.jpg",
+      "count": 119,
+      "raw": 131,
+      "final": 119,
+      "latency_ms": 88.89436721801758
+    },
+    {
+      "image": "val_351.jpg",
+      "count": 104,
+      "raw": 136,
+      "final": 104,
+      "latency_ms": 72.39007949829102
+    },
+    {
+      "image": "val_58.jpg",
+      "count": 142,
+      "raw": 152,
+      "final": 142,
+      "latency_ms": 68.50481033325195
+    },
+    {
+      "image": "val_261.jpg",
+      "count": 95,
+      "raw": 106,
+      "final": 95,
+      "latency_ms": 74.07045364379883
+    },
+    {
+      "image": "val_29.jpg",
+      "count": 180,
+      "raw": 193,
+      "final": 180,
+      "latency_ms": 88.82975578308105
+    },
+    {
+      "image": "val_426.jpg",
+      "count": 229,
+      "raw": 265,
+      "final": 229,
+      "latency_ms": 91.73035621643066
+    },
+    {
+      "image": "val_547.jpg",
+      "count": 139,
+      "raw": 156,
+      "final": 139,
+      "latency_ms": 69.5488452911377
+    },
+    {
+      "image": "val_81.jpg",
+      "count": 101,
+      "raw": 114,
+      "final": 101,
+      "latency_ms": 76.39837265014648
+    },
+    {
+      "image": "val_244.jpg",
+      "count": 162,
+      "raw": 178,
+      "final": 162,
+      "latency_ms": 133.09454917907715
+    },
+    {
+      "image": "val_468.jpg",
+      "count": 116,
+      "raw": 123,
+      "final": 116,
+      "latency_ms": 83.82296562194824
+    },
+    {
+      "image": "val_328.jpg",
+      "count": 160,
+      "raw": 171,
+      "final": 160,
+      "latency_ms": 92.75388717651367
+    },
+    {
+      "image": "val_121.jpg",
+      "count": 190,
+      "raw": 214,
+      "final": 190,
+      "latency_ms": 84.58495140075684
+    },
+    {
+      "image": "val_447.jpg",
+      "count": 165,
+      "raw": 180,
+      "final": 165,
+      "latency_ms": 79.50878143310547
+    },
+    {
+      "image": "val_269.jpg",
+      "count": 152,
+      "raw": 170,
+      "final": 152,
+      "latency_ms": 79.89692687988281
+    },
+    {
+      "image": "val_116.jpg",
+      "count": 104,
+      "raw": 112,
+      "final": 104,
+      "latency_ms": 76.3099193572998
+    },
+    {
+      "image": "val_276.jpg",
+      "count": 228,
+      "raw": 274,
+      "final": 228,
+      "latency_ms": 101.3340950012207
+    },
+    {
+      "image": "val_576.jpg",
+      "count": 123,
+      "raw": 127,
+      "final": 123,
+      "latency_ms": 67.05093383789062
+    },
+    {
+      "image": "val_220.jpg",
+      "count": 140,
+      "raw": 149,
+      "final": 140,
+      "latency_ms": 68.65906715393066
+    },
+    {
+      "image": "val_149.jpg",
+      "count": 135,
+      "raw": 137,
+      "final": 135,
+      "latency_ms": 69.02480125427246
+    },
+    {
+      "image": "val_189.jpg",
+      "count": 155,
+      "raw": 161,
+      "final": 155,
+      "latency_ms": 82.62968063354492
+    },
+    {
+      "image": "val_494.jpg",
+      "count": 157,
+      "raw": 184,
+      "final": 157,
+      "latency_ms": 85.56318283081055
+    },
+    {
+      "image": "val_131.jpg",
+      "count": 114,
+      "raw": 122,
+      "final": 114,
+      "latency_ms": 73.30584526062012
+    },
+    {
+      "image": "val_516.jpg",
+      "count": 142,
+      "raw": 172,
+      "final": 142,
+      "latency_ms": 96.4362621307373
+    },
+    {
+      "image": "val_16.jpg",
+      "count": 226,
+      "raw": 283,
+      "final": 226,
+      "latency_ms": 98.51574897766113
+    },
+    {
+      "image": "val_229.jpg",
+      "count": 283,
+      "raw": 300,
+      "final": 283,
+      "latency_ms": 100.19588470458984
+    },
+    {
+      "image": "val_207.jpg",
+      "count": 123,
+      "raw": 129,
+      "final": 123,
+      "latency_ms": 110.98861694335938
+    },
+    {
+      "image": "val_179.jpg",
+      "count": 124,
+      "raw": 131,
+      "final": 124,
+      "latency_ms": 75.56366920471191
+    },
+    {
+      "image": "val_173.jpg",
+      "count": 117,
+      "raw": 124,
+      "final": 117,
+      "latency_ms": 79.1025161743164
+    },
+    {
+      "image": "val_297.jpg",
+      "count": 147,
+      "raw": 159,
+      "final": 147,
+      "latency_ms": 79.16879653930664
+    },
+    {
+      "image": "val_252.jpg",
+      "count": 143,
+      "raw": 162,
+      "final": 143,
+      "latency_ms": 65.14239311218262
+    },
+    {
+      "image": "val_212.jpg",
+      "count": 91,
+      "raw": 96,
+      "final": 91,
+      "latency_ms": 86.71998977661133
+    },
+    {
+      "image": "val_14.jpg",
+      "count": 177,
+      "raw": 177,
+      "final": 177,
+      "latency_ms": 75.00171661376953
+    },
+    {
+      "image": "val_416.jpg",
+      "count": 127,
+      "raw": 130,
+      "final": 127,
+      "latency_ms": 68.40181350708008
+    },
+    {
+      "image": "val_254.jpg",
+      "count": 146,
+      "raw": 149,
+      "final": 146,
+      "latency_ms": 79.88882064819336
+    },
+    {
+      "image": "val_482.jpg",
+      "count": 215,
+      "raw": 228,
+      "final": 215,
+      "latency_ms": 88.91034126281738
+    },
+    {
+      "image": "val_27.jpg",
+      "count": 162,
+      "raw": 187,
+      "final": 162,
+      "latency_ms": 76.07126235961914
+    },
+    {
+      "image": "val_307.jpg",
+      "count": 149,
+      "raw": 153,
+      "final": 149,
+      "latency_ms": 69.56315040588379
+    },
+    {
+      "image": "val_67.jpg",
+      "count": 130,
+      "raw": 137,
+      "final": 130,
+      "latency_ms": 76.62796974182129
+    },
+    {
+      "image": "val_315.jpg",
+      "count": 209,
+      "raw": 224,
+      "final": 209,
+      "latency_ms": 86.86351776123047
+    },
+    {
+      "image": "val_523.jpg",
+      "count": 122,
+      "raw": 135,
+      "final": 122,
+      "latency_ms": 78.26089859008789
+    },
+    {
+      "image": "val_232.jpg",
+      "count": 132,
+      "raw": 146,
+      "final": 132,
+      "latency_ms": 83.70471000671387
+    },
+    {
+      "image": "val_374.jpg",
+      "count": 150,
+      "raw": 157,
+      "final": 150,
+      "latency_ms": 77.7580738067627
+    },
+    {
+      "image": "val_159.jpg",
+      "count": 116,
+      "raw": 120,
+      "final": 116,
+      "latency_ms": 65.63115119934082
+    },
+    {
+      "image": "val_172.jpg",
+      "count": 164,
+      "raw": 177,
+      "final": 164,
+      "latency_ms": 79.38957214355469
+    },
+    {
+      "image": "val_42.jpg",
+      "count": 129,
+      "raw": 152,
+      "final": 129,
+      "latency_ms": 111.01031303405762
+    },
+    {
+      "image": "val_106.jpg",
+      "count": 188,
+      "raw": 205,
+      "final": 188,
+      "latency_ms": 79.99539375305176
+    },
+    {
+      "image": "val_430.jpg",
+      "count": 133,
+      "raw": 145,
+      "final": 133,
+      "latency_ms": 75.67763328552246
+    },
+    {
+      "image": "val_331.jpg",
+      "count": 139,
+      "raw": 145,
+      "final": 139,
+      "latency_ms": 68.54414939880371
+    },
+    {
+      "image": "val_578.jpg",
+      "count": 136,
+      "raw": 136,
+      "final": 136,
+      "latency_ms": 68.34268569946289
+    },
+    {
+      "image": "val_85.jpg",
+      "count": 131,
+      "raw": 145,
+      "final": 131,
+      "latency_ms": 74.7835636138916
+    },
+    {
+      "image": "val_553.jpg",
+      "count": 120,
+      "raw": 131,
+      "final": 120,
+      "latency_ms": 89.79129791259766
+    },
+    {
+      "image": "val_177.jpg",
+      "count": 193,
+      "raw": 199,
+      "final": 193,
+      "latency_ms": 76.44963264465332
+    },
+    {
+      "image": "val_295.jpg",
+      "count": 188,
+      "raw": 202,
+      "final": 188,
+      "latency_ms": 79.53023910522461
+    },
+    {
+      "image": "val_167.jpg",
+      "count": 113,
+      "raw": 121,
+      "final": 113,
+      "latency_ms": 74.44238662719727
+    },
+    {
+      "image": "val_562.jpg",
+      "count": 116,
+      "raw": 120,
+      "final": 116,
+      "latency_ms": 77.04830169677734
+    },
+    {
+      "image": "val_378.jpg",
+      "count": 126,
+      "raw": 144,
+      "final": 126,
+      "latency_ms": 74.65839385986328
+    },
+    {
+      "image": "val_79.jpg",
+      "count": 178,
+      "raw": 184,
+      "final": 178,
+      "latency_ms": 78.9189338684082
+    },
+    {
+      "image": "val_540.jpg",
+      "count": 130,
+      "raw": 141,
+      "final": 130,
+      "latency_ms": 70.8012580871582
+    },
+    {
+      "image": "val_463.jpg",
+      "count": 165,
+      "raw": 173,
+      "final": 165,
+      "latency_ms": 79.66160774230957
+    },
+    {
+      "image": "val_522.jpg",
+      "count": 259,
+      "raw": 271,
+      "final": 259,
+      "latency_ms": 91.9194221496582
+    },
+    {
+      "image": "val_233.jpg",
+      "count": 162,
+      "raw": 175,
+      "final": 162,
+      "latency_ms": 90.51132202148438
+    },
+    {
+      "image": "val_543.jpg",
+      "count": 129,
+      "raw": 141,
+      "final": 129,
+      "latency_ms": 73.53591918945312
+    },
+    {
+      "image": "val_298.jpg",
+      "count": 108,
+      "raw": 115,
+      "final": 108,
+      "latency_ms": 66.78009033203125
+    },
+    {
+      "image": "val_169.jpg",
+      "count": 139,
+      "raw": 156,
+      "final": 139,
+      "latency_ms": 80.65962791442871
+    },
+    {
+      "image": "val_209.jpg",
+      "count": 135,
+      "raw": 148,
+      "final": 135,
+      "latency_ms": 73.94766807556152
+    },
+    {
+      "image": "val_521.jpg",
+      "count": 125,
+      "raw": 137,
+      "final": 125,
+      "latency_ms": 75.71887969970703
+    },
+    {
+      "image": "val_21.jpg",
+      "count": 136,
+      "raw": 147,
+      "final": 136,
+      "latency_ms": 70.36304473876953
+    },
+    {
+      "image": "val_333.jpg",
+      "count": 115,
+      "raw": 129,
+      "final": 115,
+      "latency_ms": 71.61235809326172
+    },
+    {
+      "image": "val_247.jpg",
+      "count": 128,
+      "raw": 128,
+      "final": 128,
+      "latency_ms": 67.55971908569336
+    },
+    {
+      "image": "val_311.jpg",
+      "count": 128,
+      "raw": 140,
+      "final": 128,
+      "latency_ms": 88.48428726196289
+    },
+    {
+      "image": "val_262.jpg",
+      "count": 105,
+      "raw": 119,
+      "final": 105,
+      "latency_ms": 104.16650772094727
+    },
+    {
+      "image": "val_491.jpg",
+      "count": 170,
+      "raw": 197,
+      "final": 170,
+      "latency_ms": 107.55443572998047
+    },
+    {
+      "image": "val_187.jpg",
+      "count": 149,
+      "raw": 159,
+      "final": 149,
+      "latency_ms": 117.90990829467773
+    },
+    {
+      "image": "val_324.jpg",
+      "count": 133,
+      "raw": 141,
+      "final": 133,
+      "latency_ms": 101.79376602172852
+    },
+    {
+      "image": "val_80.jpg",
+      "count": 138,
+      "raw": 151,
+      "final": 138,
+      "latency_ms": 99.08246994018555
+    },
+    {
+      "image": "val_571.jpg",
+      "count": 136,
+      "raw": 136,
+      "final": 136,
+      "latency_ms": 90.37899971008301
+    },
+    {
+      "image": "val_242.jpg",
+      "count": 135,
+      "raw": 160,
+      "final": 135,
+      "latency_ms": 92.3147201538086
+    },
+    {
+      "image": "val_512.jpg",
+      "count": 147,
+      "raw": 154,
+      "final": 147,
+      "latency_ms": 82.35836029052734
+    },
+    {
+      "image": "val_345.jpg",
+      "count": 155,
+      "raw": 173,
+      "final": 155,
+      "latency_ms": 197.41320610046387
+    },
+    {
+      "image": "val_198.jpg",
+      "count": 144,
+      "raw": 160,
+      "final": 144,
+      "latency_ms": 90.80767631530762
+    },
+    {
+      "image": "val_336.jpg",
+      "count": 157,
+      "raw": 182,
+      "final": 157,
+      "latency_ms": 124.19843673706055
+    },
+    {
+      "image": "val_253.jpg",
+      "count": 133,
+      "raw": 154,
+      "final": 133,
+      "latency_ms": 100.07286071777344
+    },
+    {
+      "image": "val_341.jpg",
+      "count": 207,
+      "raw": 226,
+      "final": 207,
+      "latency_ms": 91.84718132019043
+    },
+    {
+      "image": "val_401.jpg",
+      "count": 191,
+      "raw": 193,
+      "final": 191,
+      "latency_ms": 85.98589897155762
+    },
+    {
+      "image": "val_469.jpg",
+      "count": 152,
+      "raw": 159,
+      "final": 152,
+      "latency_ms": 99.48873519897461
+    },
+    {
+      "image": "val_217.jpg",
+      "count": 149,
+      "raw": 173,
+      "final": 149,
+      "latency_ms": 111.96422576904297
+    },
+    {
+      "image": "val_427.jpg",
+      "count": 120,
+      "raw": 138,
+      "final": 120,
+      "latency_ms": 93.83749961853027
+    },
+    {
+      "image": "val_239.jpg",
+      "count": 143,
+      "raw": 154,
+      "final": 143,
+      "latency_ms": 104.54654693603516
+    },
+    {
+      "image": "val_306.jpg",
+      "count": 84,
+      "raw": 91,
+      "final": 84,
+      "latency_ms": 99.04170036315918
+    },
+    {
+      "image": "val_354.jpg",
+      "count": 161,
+      "raw": 163,
+      "final": 161,
+      "latency_ms": 110.53347587585449
+    },
+    {
+      "image": "val_134.jpg",
+      "count": 136,
+      "raw": 146,
+      "final": 136,
+      "latency_ms": 119.44699287414551
+    },
+    {
+      "image": "val_130.jpg",
+      "count": 130,
+      "raw": 147,
+      "final": 130,
+      "latency_ms": 100.42548179626465
+    },
+    {
+      "image": "val_570.jpg",
+      "count": 134,
+      "raw": 149,
+      "final": 134,
+      "latency_ms": 279.9806594848633
+    },
+    {
+      "image": "val_507.jpg",
+      "count": 238,
+      "raw": 300,
+      "final": 238,
+      "latency_ms": 138.74220848083496
+    },
+    {
+      "image": "val_277.jpg",
+      "count": 118,
+      "raw": 123,
+      "final": 118,
+      "latency_ms": 105.49616813659668
+    },
+    {
+      "image": "val_400.jpg",
+      "count": 228,
+      "raw": 253,
+      "final": 228,
+      "latency_ms": 138.52787017822266
+    },
+    {
+      "image": "val_448.jpg",
+      "count": 125,
+      "raw": 131,
+      "final": 125,
+      "latency_ms": 92.68426895141602
+    },
+    {
+      "image": "val_117.jpg",
+      "count": 117,
+      "raw": 133,
+      "final": 117,
+      "latency_ms": 95.30019760131836
+    },
+    {
+      "image": "val_509.jpg",
+      "count": 185,
+      "raw": 209,
+      "final": 185,
+      "latency_ms": 119.84133720397949
+    },
+    {
+      "image": "val_92.jpg",
+      "count": 145,
+      "raw": 159,
+      "final": 145,
+      "latency_ms": 80.06644248962402
+    },
+    {
+      "image": "val_527.jpg",
+      "count": 111,
+      "raw": 122,
+      "final": 111,
+      "latency_ms": 105.90887069702148
+    },
+    {
+      "image": "val_218.jpg",
+      "count": 144,
+      "raw": 149,
+      "final": 144,
+      "latency_ms": 84.97142791748047
+    },
+    {
+      "image": "val_500.jpg",
+      "count": 138,
+      "raw": 141,
+      "final": 138,
+      "latency_ms": 69.43011283874512
+    },
+    {
+      "image": "val_191.jpg",
+      "count": 130,
+      "raw": 130,
+      "final": 130,
+      "latency_ms": 76.35903358459473
+    },
+    {
+      "image": "val_565.jpg",
+      "count": 156,
+      "raw": 176,
+      "final": 156,
+      "latency_ms": 82.38077163696289
+    },
+    {
+      "image": "val_75.jpg",
+      "count": 134,
+      "raw": 137,
+      "final": 134,
+      "latency_ms": 100.40283203125
+    },
+    {
+      "image": "val_551.jpg",
+      "count": 207,
+      "raw": 227,
+      "final": 207,
+      "latency_ms": 157.47928619384766
+    },
+    {
+      "image": "val_525.jpg",
+      "count": 153,
+      "raw": 175,
+      "final": 153,
+      "latency_ms": 109.65681076049805
+    },
+    {
+      "image": "val_51.jpg",
+      "count": 178,
+      "raw": 190,
+      "final": 178,
+      "latency_ms": 141.28994941711426
+    },
+    {
+      "image": "val_31.jpg",
+      "count": 137,
+      "raw": 150,
+      "final": 137,
+      "latency_ms": 107.8333854675293
+    },
+    {
+      "image": "val_554.jpg",
+      "count": 117,
+      "raw": 131,
+      "final": 117,
+      "latency_ms": 101.51338577270508
+    },
+    {
+      "image": "val_208.jpg",
+      "count": 184,
+      "raw": 222,
+      "final": 184,
+      "latency_ms": 104.12144660949707
+    },
+    {
+      "image": "val_481.jpg",
+      "count": 140,
+      "raw": 162,
+      "final": 140,
+      "latency_ms": 81.07781410217285
+    },
+    {
+      "image": "val_34.jpg",
+      "count": 155,
+      "raw": 181,
+      "final": 155,
+      "latency_ms": 79.71310615539551
+    },
+    {
+      "image": "val_281.jpg",
+      "count": 214,
+      "raw": 277,
+      "final": 214,
+      "latency_ms": 104.05707359313965
+    },
+    {
+      "image": "val_436.jpg",
+      "count": 214,
+      "raw": 274,
+      "final": 214,
+      "latency_ms": 110.75997352600098
+    },
+    {
+      "image": "val_114.jpg",
+      "count": 153,
+      "raw": 156,
+      "final": 153,
+      "latency_ms": 119.93169784545898
+    },
+    {
+      "image": "val_257.jpg",
+      "count": 205,
+      "raw": 228,
+      "final": 205,
+      "latency_ms": 113.8761043548584
+    },
+    {
+      "image": "val_185.jpg",
+      "count": 162,
+      "raw": 180,
+      "final": 162,
+      "latency_ms": 107.34367370605469
+    },
+    {
+      "image": "val_428.jpg",
+      "count": 153,
+      "raw": 189,
+      "final": 153,
+      "latency_ms": 143.31579208374023
+    },
+    {
+      "image": "val_107.jpg",
+      "count": 180,
+      "raw": 182,
+      "final": 180,
+      "latency_ms": 109.10654067993164
+    },
+    {
+      "image": "val_305.jpg",
+      "count": 42,
+      "raw": 45,
+      "final": 42,
+      "latency_ms": 69.37909126281738
+    },
+    {
+      "image": "val_339.jpg",
+      "count": 133,
+      "raw": 145,
+      "final": 133,
+      "latency_ms": 81.07233047485352
+    },
+    {
+      "image": "val_303.jpg",
+      "count": 131,
+      "raw": 136,
+      "final": 131,
+      "latency_ms": 76.48324966430664
+    },
+    {
+      "image": "val_22.jpg",
+      "count": 151,
+      "raw": 160,
+      "final": 151,
+      "latency_ms": 95.63231468200684
+    },
+    {
+      "image": "val_5.jpg",
+      "count": 197,
+      "raw": 204,
+      "final": 197,
+      "latency_ms": 124.10402297973633
+    },
+    {
+      "image": "val_409.jpg",
+      "count": 150,
+      "raw": 159,
+      "final": 150,
+      "latency_ms": 97.73707389831543
+    },
+    {
+      "image": "val_419.jpg",
+      "count": 176,
+      "raw": 177,
+      "final": 176,
+      "latency_ms": 110.93950271606445
+    },
+    {
+      "image": "val_69.jpg",
+      "count": 145,
+      "raw": 162,
+      "final": 145,
+      "latency_ms": 93.90473365783691
+    },
+    {
+      "image": "val_228.jpg",
+      "count": 125,
+      "raw": 142,
+      "final": 125,
+      "latency_ms": 99.26819801330566
+    },
+    {
+      "image": "val_122.jpg",
+      "count": 149,
+      "raw": 166,
+      "final": 149,
+      "latency_ms": 109.36379432678223
+    },
+    {
+      "image": "val_127.jpg",
+      "count": 141,
+      "raw": 155,
+      "final": 141,
+      "latency_ms": 77.1331787109375
+    },
+    {
+      "image": "val_316.jpg",
+      "count": 15,
+      "raw": 16,
+      "final": 15,
+      "latency_ms": 60.44578552246094
+    },
+    {
+      "image": "val_515.jpg",
+      "count": 125,
+      "raw": 133,
+      "final": 125,
+      "latency_ms": 92.38553047180176
+    },
+    {
+      "image": "val_370.jpg",
+      "count": 130,
+      "raw": 134,
+      "final": 130,
+      "latency_ms": 103.85704040527344
+    },
+    {
+      "image": "val_18.jpg",
+      "count": 216,
+      "raw": 225,
+      "final": 216,
+      "latency_ms": 132.1704387664795
+    },
+    {
+      "image": "val_38.jpg",
+      "count": 288,
+      "raw": 300,
+      "final": 288,
+      "latency_ms": 133.65817070007324
+    },
+    {
+      "image": "val_20.jpg",
+      "count": 184,
+      "raw": 252,
+      "final": 184,
+      "latency_ms": 111.01388931274414
+    },
+    {
+      "image": "val_382.jpg",
+      "count": 127,
+      "raw": 136,
+      "final": 127,
+      "latency_ms": 106.53877258300781
+    },
+    {
+      "image": "val_531.jpg",
+      "count": 141,
+      "raw": 146,
+      "final": 141,
+      "latency_ms": 106.34326934814453
+    },
+    {
+      "image": "val_520.jpg",
+      "count": 162,
+      "raw": 185,
+      "final": 162,
+      "latency_ms": 104.14457321166992
+    },
+    {
+      "image": "val_424.jpg",
+      "count": 136,
+      "raw": 136,
+      "final": 136,
+      "latency_ms": 71.55752182006836
+    },
+    {
+      "image": "val_294.jpg",
+      "count": 156,
+      "raw": 165,
+      "final": 156,
+      "latency_ms": 80.31153678894043
+    },
+    {
+      "image": "val_98.jpg",
+      "count": 159,
+      "raw": 176,
+      "final": 159,
+      "latency_ms": 90.087890625
+    },
+    {
+      "image": "val_105.jpg",
+      "count": 148,
+      "raw": 166,
+      "final": 148,
+      "latency_ms": 76.06315612792969
+    },
+    {
+      "image": "val_264.jpg",
+      "count": 221,
+      "raw": 236,
+      "final": 221,
+      "latency_ms": 118.51215362548828
+    },
+    {
+      "image": "val_133.jpg",
+      "count": 114,
+      "raw": 124,
+      "final": 114,
+      "latency_ms": 103.5299301147461
+    },
+    {
+      "image": "val_168.jpg",
+      "count": 135,
+      "raw": 173,
+      "final": 135,
+      "latency_ms": 103.05333137512207
+    },
+    {
+      "image": "val_322.jpg",
+      "count": 129,
+      "raw": 129,
+      "final": 129,
+      "latency_ms": 95.64900398254395
+    },
+    {
+      "image": "val_411.jpg",
+      "count": 159,
+      "raw": 162,
+      "final": 159,
+      "latency_ms": 112.16521263122559
+    },
+    {
+      "image": "val_112.jpg",
+      "count": 151,
+      "raw": 157,
+      "final": 151,
+      "latency_ms": 129.1365623474121
+    },
+    {
+      "image": "val_91.jpg",
+      "count": 182,
+      "raw": 195,
+      "final": 182,
+      "latency_ms": 86.9143009185791
+    },
+    {
+      "image": "val_37.jpg",
+      "count": 148,
+      "raw": 159,
+      "final": 148,
+      "latency_ms": 78.85217666625977
+    },
+    {
+      "image": "val_357.jpg",
+      "count": 164,
+      "raw": 190,
+      "final": 164,
+      "latency_ms": 78.55772972106934
+    },
+    {
+      "image": "val_435.jpg",
+      "count": 141,
+      "raw": 150,
+      "final": 141,
+      "latency_ms": 85.05058288574219
+    },
+    {
+      "image": "val_196.jpg",
+      "count": 202,
+      "raw": 234,
+      "final": 202,
+      "latency_ms": 116.39237403869629
+    },
+    {
+      "image": "val_97.jpg",
+      "count": 193,
+      "raw": 230,
+      "final": 193,
+      "latency_ms": 114.41779136657715
+    },
+    {
+      "image": "val_30.jpg",
+      "count": 198,
+      "raw": 199,
+      "final": 198,
+      "latency_ms": 103.0876636505127
+    },
+    {
+      "image": "val_326.jpg",
+      "count": 125,
+      "raw": 166,
+      "final": 125,
+      "latency_ms": 96.29034996032715
+    },
+    {
+      "image": "val_504.jpg",
+      "count": 273,
+      "raw": 300,
+      "final": 273,
+      "latency_ms": 127.39038467407227
+    },
+    {
+      "image": "val_158.jpg",
+      "count": 197,
+      "raw": 220,
+      "final": 197,
+      "latency_ms": 120.37515640258789
+    },
+    {
+      "image": "val_308.jpg",
+      "count": 113,
+      "raw": 124,
+      "final": 113,
+      "latency_ms": 72.52979278564453
+    },
+    {
+      "image": "val_184.jpg",
+      "count": 255,
+      "raw": 300,
+      "final": 255,
+      "latency_ms": 93.98937225341797
+    },
+    {
+      "image": "val_68.jpg",
+      "count": 131,
+      "raw": 136,
+      "final": 131,
+      "latency_ms": 90.03424644470215
+    },
+    {
+      "image": "val_441.jpg",
+      "count": 132,
+      "raw": 134,
+      "final": 132,
+      "latency_ms": 89.45155143737793
+    },
+    {
+      "image": "val_534.jpg",
+      "count": 220,
+      "raw": 245,
+      "final": 220,
+      "latency_ms": 111.4039421081543
+    },
+    {
+      "image": "val_100.jpg",
+      "count": 140,
+      "raw": 159,
+      "final": 140,
+      "latency_ms": 104.92563247680664
+    },
+    {
+      "image": "val_323.jpg",
+      "count": 159,
+      "raw": 167,
+      "final": 159,
+      "latency_ms": 107.70964622497559
+    },
+    {
+      "image": "val_300.jpg",
+      "count": 216,
+      "raw": 245,
+      "final": 216,
+      "latency_ms": 107.9258918762207
+    },
+    {
+      "image": "val_7.jpg",
+      "count": 214,
+      "raw": 238,
+      "final": 214,
+      "latency_ms": 114.37034606933594
+    },
+    {
+      "image": "val_438.jpg",
+      "count": 224,
+      "raw": 264,
+      "final": 224,
+      "latency_ms": 119.2326545715332
+    },
+    {
+      "image": "val_206.jpg",
+      "count": 112,
+      "raw": 126,
+      "final": 112,
+      "latency_ms": 83.83822441101074
+    },
+    {
+      "image": "val_420.jpg",
+      "count": 16,
+      "raw": 16,
+      "final": 16,
+      "latency_ms": 62.25705146789551
+    },
+    {
+      "image": "val_329.jpg",
+      "count": 215,
+      "raw": 260,
+      "final": 215,
+      "latency_ms": 86.07316017150879
+    },
+    {
+      "image": "val_87.jpg",
+      "count": 123,
+      "raw": 138,
+      "final": 123,
+      "latency_ms": 75.55651664733887
+    },
+    {
+      "image": "val_11.jpg",
+      "count": 135,
+      "raw": 157,
+      "final": 135,
+      "latency_ms": 107.79881477355957
+    },
+    {
+      "image": "val_83.jpg",
+      "count": 126,
+      "raw": 128,
+      "final": 126,
+      "latency_ms": 101.45139694213867
+    },
+    {
+      "image": "val_484.jpg",
+      "count": 124,
+      "raw": 125,
+      "final": 124,
+      "latency_ms": 95.50786018371582
+    },
+    {
+      "image": "val_95.jpg",
+      "count": 46,
+      "raw": 50,
+      "final": 46,
+      "latency_ms": 88.90676498413086
+    },
+    {
+      "image": "val_259.jpg",
+      "count": 117,
+      "raw": 137,
+      "final": 117,
+      "latency_ms": 104.07590866088867
+    },
+    {
+      "image": "val_539.jpg",
+      "count": 135,
+      "raw": 152,
+      "final": 135,
+      "latency_ms": 110.08739471435547
+    },
+    {
+      "image": "val_135.jpg",
+      "count": 212,
+      "raw": 226,
+      "final": 212,
+      "latency_ms": 111.0830307006836
+    },
+    {
+      "image": "val_440.jpg",
+      "count": 155,
+      "raw": 161,
+      "final": 155,
+      "latency_ms": 81.4054012298584
+    },
+    {
+      "image": "val_338.jpg",
+      "count": 139,
+      "raw": 152,
+      "final": 139,
+      "latency_ms": 69.96607780456543
+    },
+    {
+      "image": "val_188.jpg",
+      "count": 150,
+      "raw": 178,
+      "final": 150,
+      "latency_ms": 87.10050582885742
+    },
+    {
+      "image": "val_202.jpg",
+      "count": 130,
+      "raw": 135,
+      "final": 130,
+      "latency_ms": 104.51674461364746
+    },
+    {
+      "image": "val_35.jpg",
+      "count": 158,
+      "raw": 182,
+      "final": 158,
+      "latency_ms": 101.06706619262695
+    },
+    {
+      "image": "val_33.jpg",
+      "count": 127,
+      "raw": 141,
+      "final": 127,
+      "latency_ms": 105.02171516418457
+    },
+    {
+      "image": "val_10.jpg",
+      "count": 124,
+      "raw": 142,
+      "final": 124,
+      "latency_ms": 100.79455375671387
+    },
+    {
+      "image": "val_263.jpg",
+      "count": 160,
+      "raw": 167,
+      "final": 160,
+      "latency_ms": 101.7003059387207
+    },
+    {
+      "image": "val_385.jpg",
+      "count": 134,
+      "raw": 141,
+      "final": 134,
+      "latency_ms": 110.02111434936523
+    },
+    {
+      "image": "val_162.jpg",
+      "count": 176,
+      "raw": 193,
+      "final": 176,
+      "latency_ms": 106.43839836120605
+    },
+    {
+      "image": "val_12.jpg",
+      "count": 105,
+      "raw": 118,
+      "final": 105,
+      "latency_ms": 73.68779182434082
+    },
+    {
+      "image": "val_176.jpg",
+      "count": 135,
+      "raw": 149,
+      "final": 135,
+      "latency_ms": 75.68740844726562
+    },
+    {
+      "image": "val_280.jpg",
+      "count": 84,
+      "raw": 94,
+      "final": 84,
+      "latency_ms": 91.17507934570312
+    },
+    {
+      "image": "val_510.jpg",
+      "count": 111,
+      "raw": 122,
+      "final": 111,
+      "latency_ms": 94.4068431854248
+    },
+    {
+      "image": "val_555.jpg",
+      "count": 111,
+      "raw": 114,
+      "final": 111,
+      "latency_ms": 105.08537292480469
+    },
+    {
+      "image": "val_234.jpg",
+      "count": 124,
+      "raw": 136,
+      "final": 124,
+      "latency_ms": 95.703125
+    },
+    {
+      "image": "val_271.jpg",
+      "count": 295,
+      "raw": 300,
+      "final": 295,
+      "latency_ms": 133.8021755218506
+    }
+  ]
+}
