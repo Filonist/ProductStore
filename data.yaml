@@ -1,0 +1,8 @@
+path: SKU110K_small
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: product

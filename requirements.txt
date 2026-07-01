@@ -1,0 +1,13 @@
+torch
+torchvision
+ultralytics
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+streamlit
+openpyxl
+scikit-learn
+effdet
+pycocotools
